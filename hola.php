@@ -1,4 +1,4 @@
 <?php
-    echo “Hola Jose Mudarra Castillo”;
+    echo “Hola, soy Jose Mudarra Castillo”;
 ?>
 
